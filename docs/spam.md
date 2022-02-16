@@ -54,4 +54,4 @@ flavorful dish with a thick sauce.
 
 8. Serve.
 
-{% include footer.html%}
+{% include footer.md %}

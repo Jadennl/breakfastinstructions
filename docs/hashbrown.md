@@ -52,4 +52,4 @@ giving you a perfect crunch with each bite.
 
 9. Serve immediately.
 
-{% include footer.html%}
+{% include footer.md %}

@@ -6,4 +6,4 @@ instructions will help you get straight to cooking and to help guide you
 around my lovely kitchen. Please refer to kitchen organization section
 to familiarize yourself with the kitchen setup.
 
-{% include footer.html%}
+{% include footer.md %}

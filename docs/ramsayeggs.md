@@ -48,4 +48,4 @@ You will need the following:
 
 10. Add cut scallions on top of the eggs.
 
-{% include footer.html%}
+{% include footer.md %}

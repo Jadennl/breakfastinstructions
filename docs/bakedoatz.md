@@ -59,4 +59,4 @@ You will need the following:
 6. Take out of the oven and cool for 10 minutes before eating.  
    **Take caution, the ramekin will be hot.**
 
-{% include footer.html%}
+{% include footer.md %}

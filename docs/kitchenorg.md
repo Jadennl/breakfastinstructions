@@ -13,4 +13,4 @@ automatically generated](media/image3.jpeg)
 *Figure C: The Rack with all utensils and dry ingredients that you will
 need.*
 
-{% include footer.html%}
+{% include footer.md %}
