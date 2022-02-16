@@ -26,7 +26,7 @@ flavorful dish with a thick sauce.
 
 ## Steps
 
-![Raw spam sliced in reasonable sized cuts](media/image5.png)
+![Raw spam sliced in reasonable sized cuts](media/image5.png)  
 *Figure I: How the spam should be cut*
 
 1. Prepare the Spam

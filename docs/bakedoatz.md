@@ -37,26 +37,26 @@ You will need the following:
 
 2. Add all the ingredients to a hand blender.
 
-![Blended ingredients](media/image6.png)
-*Figure E: Consistency of baked oats needed.*
+    ![Blended ingredients](media/image6.png)  
+    *Figure E: Consistency of baked oats needed.*
 
-1. Blend until smooth (the texture of figure E), which will take about
+3. Blend until smooth (the texture of figure E), which will take about
     one minute.
 
-2. Line the ramekin with cooking oil
+4. Line the ramekin with cooking oil
 
-3. Pour the blending mixture into the ramekin.
+5. Pour the blending mixture into the ramekin.
 
-4. Once the oven reaches the heat needed, add the filled ramekin to the
+6. Once the oven reaches the heat needed, add the filled ramekin to the
     oven.
 
-5. Bake for about 20 minutes, or until the oats reach a cake-like
+7. Bake for about 20 minutes, or until the oats reach a cake-like
     consistency as shown in figure F.
 
-    ![Baked Oats](media/image7.png)
+    ![Baked Oats](media/image7.png)  
     *Figure F: Texture of finished baked oats.*
 
-6. Take out of the oven and cool for 10 minutes before eating.  
-   **Take caution, the ramekin will be hot.**
+8. Take out of the oven and cool for 10 minutes before eating.  
+  **Take caution, the ramekin will be hot.**
 
 {% include footer.md %}

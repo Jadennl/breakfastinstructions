@@ -35,7 +35,7 @@ You will need the following:
 
 5. While still stirring, take it off the stove for 30 seconds.
 
-    ![Eggs with fluffy consistency](media/image4.jpg)
+    ![Eggs with fluffy consistency](media/image4.jpg)  
     *Figure D: The consistency needed for the eggs in step 6 (English muffin not included).*
 
 6. Repeat steps 4 and 5 again, until the eggs have a solid, yet creamy consistency as shown in figure D.

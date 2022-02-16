@@ -22,11 +22,10 @@ giving you a perfect crunch with each bite.
 
 ## Steps
 
-![Shredded Potatoes](media/image8.png)
+![Shredded Potatoes](media/image8.png)  
 *Figure G: Shaved hashbrowns*
 
-1. Prepare potatoes in hashbrown strips, they should look like Figure
-    G.
+1. Prepare potatoes in hashbrown strips, they should look like Figure G.
 
     a.  If frozen, thaw in a bowl of water.
 
@@ -42,11 +41,10 @@ giving you a perfect crunch with each bite.
 
 6. Season the hashbrowns with salt and pepper.
 
-    ![Fried hashbrown](media/image9.png)
+    ![Fried hashbrown](media/image9.png)  
     *Figure H: Fried hashbrown*
 
-7. Once the hashbrown is golden brown like the image of figure H, flip
-    the hashbrown.
+7. Once the hashbrown is golden brown like the image of figure H, flip the hashbrown.
 
 8. Remove the hashbrown from the wok
 
